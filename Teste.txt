@@ -1,2 +1,3 @@
 RELÓGIO DE ORAÇÃO:
 00:00t
+adiconando mais uma linha de comando
